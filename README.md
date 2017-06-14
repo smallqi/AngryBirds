@@ -1,2 +1,2 @@
 # AngryBirds
-a simple u3d game imitated angrybirds
+a simple u3d game imitated angrybirds coded by others
